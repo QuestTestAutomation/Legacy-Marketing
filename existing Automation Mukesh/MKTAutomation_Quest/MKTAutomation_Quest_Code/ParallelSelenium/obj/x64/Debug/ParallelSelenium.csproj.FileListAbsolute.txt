@@ -1,0 +1,17 @@
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\ParallelSelenium.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\ParallelSelenium.pdb
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\Ionic.Zip.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\Microsoft.Web.XmlTransform.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\NuGet.Core.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\nunit.framework.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\WebDriver.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\WebDriver.Support.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\nunit.framework.xml
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\WebDriver.xml
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\bin\x64\Debug\WebDriver.Support.xml
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\obj\x64\Debug\ParallelSelenium.dll
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\obj\x64\Debug\ParallelSelenium.pdb
+C:\Sauce_Lab_new\CSharp-Nunit-Selenium-master\ParallelSelenium\obj\x64\Debug\ParallelSelenium.csprojResolveAssemblyReference.cache
